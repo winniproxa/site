@@ -1,0 +1,18 @@
+span {
+  font-style: italic;
+  font-size: larger;
+  font-size: 110px;
+  color: rgb(248, 0, 0);
+}
+
+.kartinki{
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+  
+
+}
+
+.kartinki>img{
+  width: 25%;
+}
